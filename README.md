@@ -6,6 +6,10 @@ com o faturamento e a quantidade de produtos vendidos no dia anterior.
 
 E-mail da diretoria: seugmail@gmail.com&lt.
 
-Local onde o sistema disponibiliza as vendas do dia anterior: https://drive.google.com/drive/folders/1yyaDYec9WTfkZ-A-G2iE1vksoAwXUvcL.
+Local onde o sistema disponibiliza as vendas do dia anterior: https://drive.google.com/drive/folders/1yyaDYec9WTfkZ-A-G2iE1vksoAwXUvcL
+
+# Tecnologia utilizada
+
+## Python
 
 Para resolver isso, vamos usar o pyautogui, uma biblioteca de automação de comandos do mouse e do teclado em conjunto com o webbrowser
